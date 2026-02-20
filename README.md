@@ -7,7 +7,7 @@ No CSS or JavaScript has been used in this project. The focus is purely on HTML 
 
 ---
 
-## 📄 Pages Included
+##  Pages Included
 
 - login.html – User login page  
 - register.html – New user registration page  
@@ -17,7 +17,7 @@ No CSS or JavaScript has been used in this project. The focus is purely on HTML 
 
 ---
 
-## 🔁 How Navigation Works
+## How Navigation Works
 
 All redirections between pages are handled using `<a>` (anchor) tags.  
 For example:
@@ -28,7 +28,7 @@ For example:
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 
 This project was created as a basic Proof of Concept (POC) to understand:
 - HTML page structure
